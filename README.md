@@ -4,7 +4,7 @@
 
 The APIs available in this repository include:
 
-- [ ] API for retrieving a book's mean rating:
+- [X] API for retrieving a book's mean rating:
 
     * Given a book name, this API calculates and returns the average rating based on user reviews. It offers a quantitative measure of a book's overall reception, aiding readers in their selection process.
 - [ ] API for identifying the most frequent word in a book's comments:
