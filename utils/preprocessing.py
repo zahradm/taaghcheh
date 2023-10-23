@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv('/media/zahra/06D8A5DBD8A5C8EF/Projects/taaghcheh/data/taghche.csv')
+data = pd.read_csv('./data/taghche.csv')
 
 
 def mean_rating(book_name):
