@@ -7,7 +7,7 @@ The APIs available in this repository include:
 - [X] API for retrieving a book's mean rating:
 
     * Given a book name, this API calculates and returns the average rating based on user reviews. It offers a quantitative measure of a book's overall reception, aiding readers in their selection process.
-- [ ] API for identifying the most frequent word in a book's comments:
+- [X] API for identifying the most frequent word in a book's comments:
 
   * This API analyzes user comments associated with a specific book and determines the word that appears most frequently. By highlighting the predominant topic of discussion, readers can gain valuable insights into the book's key themes.
 - [ ] API for conducting sentiment analysis on a book's comments:
