@@ -7,7 +7,7 @@ from collections import Counter
 from hazm import Lemmatizer, Normalizer, stopwords_list, word_tokenize
 
 
-data = pd.read_csv('../data/taghche.csv')
+data = pd.read_csv('./data/taghche.csv')
 
 
 def mean_rating(book_name):
